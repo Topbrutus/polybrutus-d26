@@ -1,0 +1,5 @@
+# SHA-256 of exactly three public Zenodo record 24410491 artifacts
+# Source ZIP is the frozen Git tag exported as an archive, not a working-tree file.
+a123a21c437d5b2c6ac2737ac241c07441b1f9e29aeace82e1820233e0032d30  POLYBRUTUS_D26_SOURCE_v0.1.0_GITHUB_TAG.zip
+a148d1352574859a31f914b9ac383005cde93e460166d32ba99a4ec382e49948  publication/POLYBRUTUS_26D_NOTE.pdf
+1b109ad0e5e7df765a00ca3fc5566d9d3381c96be1dd2e83bfe76c049159707a  results/certificate_d26.json

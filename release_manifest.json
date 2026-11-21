@@ -1,0 +1,72 @@
+{
+  "ai_disclosure": "OpenAI ChatGPT (Astra) substantially assisted; AI is not a scientific author",
+  "files": {
+    "POLYBRUTUS_26D_NOTE.pdf": {
+      "md5": "531c9cdf33929ba101ff557b4a2f3c91",
+      "sha256": "a148d1352574859a31f914b9ac383005cde93e460166d32ba99a4ec382e49948",
+      "size": 80273
+    },
+    "POLYBRUTUS_D26_SOURCE_v0.1.0_GITHUB_TAG.zip": {
+      "md5": "65303f1c717a481c6f935a953ac4fd43",
+      "sha256": "a123a21c437d5b2c6ac2737ac241c07441b1f9e29aeace82e1820233e0032d30",
+      "size": 462234
+    },
+    "certificate_d26.json": {
+      "md5": "729a79230cf6c353e2200be465c6835b",
+      "sha256": "1b109ad0e5e7df765a00ca3fc5566d9d3381c96be1dd2e83bfe76c049159707a",
+      "size": 36292
+    }
+  },
+  "github": {
+    "frozen_tag": "v0.1.0",
+    "main_ci": "https://github.com/Topbrutus/polybrutus-d26/actions/runs/44859783568",
+    "repository": "https://github.com/Topbrutus/polybrutus-d26",
+    "scientific_source_commit": "5334c0fae387338314ea6e0fb8450bb3c1a5fcfa",
+    "tag_ci": "https://github.com/Topbrutus/polybrutus-d26/actions/runs/44859838293"
+  },
+  "human_scientific_author": "Gabriel St-Pierre",
+  "limits": "Specific synthetic metric, no extra physical spacetime dimension or measured frequency, no universal theorem or human peer review",
+  "mathematics": {
+    "affine_rank": 26,
+    "centered_gram_rank": 26,
+    "ideal_graph_eigenvalue_15_multiplicity": 4,
+    "ideal_graph_eigenvalue_31_over_2_multiplicity": 20,
+    "new_pairs": 30,
+    "normalized_squared_distance_histogram": {
+      "10": 10,
+      "12": 6,
+      "13": 2,
+      "16": 2,
+      "4": 6,
+      "7": 2,
+      "8": 434,
+      "9": 3
+    },
+    "pairs": 465,
+    "parent_pairs_preserved": 435,
+    "sum_squared_distances_R1": "3767/4",
+    "vertices": 31
+  },
+  "memoria": {
+    "checkpoint": "memoria/checkpoints/POLYBRUTUS_D26_PUBLICATION_2026-11-20.md",
+    "registry": "memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md",
+    "repository": "Topbrutus/topbrutus_one"
+  },
+  "parent": {
+    "doi": "10.5281/zenodo.24410435",
+    "embedded_as_git_archive": true,
+    "frozen_certificate_sha256": "1cad349945e85a0700906762b21c3644ee9188308098b340e99acc525cac4ffd",
+    "frozen_tag": "v0.1.0",
+    "repository": "Topbrutus/polybrutus-d25",
+    "scientific_source_commit": "0dda9ed43622385d3e5fdddef9336458a32ed5ed"
+  },
+  "schema": "POLYBRUTUS-D26-RELEASE-MANIFEST-v1",
+  "status": "DONE",
+  "version": "0.1.0",
+  "zenodo": {
+    "doi": "10.5281/zenodo.24410491",
+    "public_integrity": "3/3 files API-verified for byte lengths and MD5",
+    "record_id": 24410491,
+    "url": "https://zenodo.org/records/24410491"
+  }
+}

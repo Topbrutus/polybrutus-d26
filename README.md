@@ -24,6 +24,15 @@ python tests/independent_d26.py
 
 Both programs print the same SHA-256 of the deterministic `results/certificate_d26.json`. Frozen full D25 tag sources, including the original exact certificate and older provenance files, are copied under `prior/d25/` with **no nested .git directory or Git submodule**.
 
+## Official DOI and public verification
+
+- **Zenodo DOI:** [10.5281/zenodo.24410491](https://doi.org/10.5281/zenodo.24410491).
+- **Public Zenodo record:** https://zenodo.org/records/24410491 ; 3/3 attachments verified against sizes and checksums.
+- **Frozen scientific tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d26/tree/v0.1.0), commit `5334c0fae387338314ea6e0fb8450bb3c1a5fcfa`.
+- **Tag CI:** [Actions run 44859838293](https://github.com/Topbrutus/polybrutus-d26/actions/runs/44859838293), success.
+- **Durable Memoria checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D26_PUBLICATION_2026-11-20.md .
+- **Program publication index:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+
 ## Scientific files
 
 - [Exact specification](SPECIFICATION_D26.md) and [proof](PREUVE_D26.md).
